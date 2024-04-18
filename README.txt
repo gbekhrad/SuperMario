@@ -22,13 +22,13 @@ High Level Overview:
 Main class inherits world and level classes. 
 In the main class, we take in the input file, take out the parameters provided in it and pass those to create our world. 
 World inherets level and has an array which stores level objects called levels.
- The paramters which include gridDimension, probCoins, etc. are used to Populate each level (nxn array) 
- with the different types of objects based on the probability of a given index being said object. 
- The level class which inherets Mario also provides each level with a boss. 
- We also have 2 methods in Level.cpp 'placePipe' and 'placeMario' which insert a single mario object onto an already existing level, 
- and single warp pipe into levels before they are outputed except for the final level. 
- The Mario class has methods for interacting with all the different objects and also keeps track of his lives, coins, etc. 
- and enacts the different functions associated with those items such as adding a life every 20 coins.
+The paramters which include gridDimension, probCoins, etc. are used to Populate each level (nxn array) 
+with the different types of objects based on the probability of a given index being said object. 
+The level class which inherets Mario also provides each level with a boss. 
+We also have 2 methods in Level.cpp 'placePipe' and 'placeMario' which insert a single mario object onto an already existing level, 
+and single warp pipe into levels before they are outputed except for the final level. 
+The Mario class has methods for interacting with all the different objects and also keeps track of his lives, coins, etc. 
+and enacts the different functions associated with those items such as adding a life every 20 coins.
 
 The programs input file follows the following specifications 
 (a command line argument text file of the following format):
