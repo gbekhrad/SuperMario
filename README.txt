@@ -1,12 +1,6 @@
-Class Section: CPSC 350-01
-
-Name 1: Gabriella Bekhrad
-ID 1: 2417841
-Email 1: gbekhrad@chapman.edu
-
-Name 2: Yonatan Kazovsky
-ID 2: 2416611
-Email 2: kazovsky@chapman.edu
+Gabriella Bekhrad
+gabimbek@gmail.com
+Commit: 4/17/2024
 
 Source Files:
   - main.cpp
