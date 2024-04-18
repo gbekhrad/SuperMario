@@ -1,0 +1,227 @@
+Level: 1
+k m m g 
+k c w c 
+g g m g 
+c k b c 
+
+Level: 2
+b c w g 
+m m k m 
+k c k c 
+c g m g 
+
+Level: 3
+k c g g 
+c c m b 
+m g c k 
+k m k m 
+
+Current Level: 1
+k m m g 
+k c w c 
+g H m g 
+c k b c 
+Mario's current position is row 3, column 2.
+His current power level is PL0.
+Mario will move down. He found a koopa.
+Mario lost the battle. His power level was already at minimum, so Mario lost a life.
+Mario has 2 lives and 0 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g x m g 
+c H b c 
+Mario's current position is row 4, column 2.
+His current power level is PL0.
+Mario will move up. He found a boss.
+Mario lost to the boss and lost a life! He will attempt to fight him again. Mario's power level is now 0 and he has 1 lives!
+Mario has 1 lives and 0 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g x m g 
+c x H c 
+Mario's current position is row 4, column 3.
+His current power level is PL0.
+Mario will move up. He found a mushroom.
+Mario's current power level is now PL1.
+Mario has 1 lives and 0 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g x H g 
+c x x c 
+Mario's current position is row 3, column 3.
+His current power level is PL1.
+Mario will move left. He found nothing :(
+Mario has 1 lives and 0 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g H x g 
+c x x c 
+Mario's current position is row 3, column 2.
+His current power level is PL1.
+Mario will move right. He found nothing :(
+Mario has 1 lives and 0 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g x H g 
+c x x c 
+Mario's current position is row 3, column 3.
+His current power level is PL1.
+Mario will move right. He found a goomba.
+Mario defeated the goomba.
+Mario has 1 lives and 0 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g x x H 
+c x x c 
+Mario's current position is row 3, column 4.
+His current power level is PL1.
+Mario will move down. He found a coin.
+Mario has 1 lives and 1 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g x x x 
+c x x H 
+Mario's current position is row 4, column 4.
+His current power level is PL1.
+Mario will move up. He found nothing :(
+Mario has 1 lives and 1 coin(s).
+
+Current Level: 1
+k m m g 
+k c w c 
+g x x H 
+c x x x 
+Mario's current position is row 3, column 4.
+His current power level is PL1.
+Mario will move up. He found a coin.
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 1
+k m m g 
+k c w H 
+g x x x 
+c x x x 
+Mario's current position is row 2, column 4.
+His current power level is PL1.
+Mario will move right. He found a koopa.
+Mario lost the battle, his power level is now 0
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 1
+k m m g 
+H c w x 
+g x x x 
+c x x x 
+Mario's current position is row 2, column 1.
+His current power level is PL0.
+Mario will move up. He found a koopa.
+Mario defeated the Koopa!
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 1
+H m m g 
+x c w x 
+g x x x 
+c x x x 
+Mario's current position is row 1, column 1.
+His current power level is PL0.
+Mario will move down. He found nothing :(
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 1
+x m m g 
+H c w x 
+g x x x 
+c x x x 
+Mario's current position is row 2, column 1.
+His current power level is PL0.
+Mario will move left. He found nothing :(
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 1
+x m m g 
+x c w H 
+g x x x 
+c x x x 
+Mario's current position is row 2, column 4.
+His current power level is PL0.
+Mario will move down. He found nothing :(
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 1
+x m m g 
+x c w x 
+g x x H 
+c x x x 
+Mario's current position is row 3, column 4.
+His current power level is PL0.
+Mario will move up. He found nothing :(
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 1
+x m m g 
+x c w H 
+g x x x 
+c x x x 
+Mario's current position is row 2, column 4.
+His current power level is PL0.
+Mario will move left, reach a pipe, and warp to the next level.
+Mario has 1 lives and 2 coin(s).
+
+Current Level: 2
+b c w g 
+m H k m 
+k c k c 
+c g m g 
+Mario's current position is row 2, column 2.
+His current power level is PL0.
+Mario will move up. He found a coin.
+Mario has 1 lives and 3 coin(s).
+
+Current Level: 2
+b H w g 
+m x k m 
+k c k c 
+c g m g 
+Mario's current position is row 1, column 2.
+His current power level is PL0.
+Mario will move up. He found a goomba.
+Mario defeated the goomba.
+Mario has 1 lives and 3 coin(s).
+
+Current Level: 2
+b x w g 
+m x k m 
+k c k c 
+c H m g 
+Mario's current position is row 4, column 2.
+His current power level is PL0.
+Mario will move up. He found a coin.
+Mario has 1 lives and 4 coin(s).
+
+Current Level: 2
+b x w g 
+m x k m 
+k H k c 
+c x m g 
+Mario's current position is row 3, column 2.
+His current power level is PL0.
+Mario will move right. He found a koopa.
+Mario lost the battle, game over!
+Mario has 0 lives and 4 coin(s).
+
+The princess was not saved. Moves taken: 20
